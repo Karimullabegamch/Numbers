@@ -10,3 +10,7 @@ public class Sorting {
     System.out.println(a);
   }
 }
+
+a++ ==> a=a+1 automatic
+
+  a+1 here it not assing just adding
