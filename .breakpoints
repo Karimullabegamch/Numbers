@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "src/main/Stream Api/map.java": [
+      {
+        "id": "f5e3367e-df93-43c6-9601-6b3792feb558",
+        "line": 3,
+        "version": 45,
+        "index": 19
+      }
+    ]
+  }
 }
