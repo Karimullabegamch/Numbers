@@ -54,3 +54,11 @@ public class LineBinSerachComp {
         System.out.println("elemetn not found");
     }
   }
+
+
+
+  // LINEAR SEARCH SHOULD NOT REQUIRED SORTED ARRYA
+// BUT BUBBLE SORT REQUIRED SORTED ARRA
+
+// linear search  --> O(n)
+// binary searh --> o(log n)
