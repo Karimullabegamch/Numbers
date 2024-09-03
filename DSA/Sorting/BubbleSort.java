@@ -42,3 +42,5 @@ public class BubbleSort
       System.out.println("count is "+c);
     }
   }
+
+// O(n^2)
