@@ -11,7 +11,7 @@ public class BubbleSort
         }
       System.out.println();
 
-     int c=0;
+    
 
       for(int j=0;j<arr.length-1;j++)
         {
@@ -19,7 +19,7 @@ public class BubbleSort
             {
               if(arr[i]>arr[i+1])
               {
-                c++;
+             
                 temp=arr[i];
                 arr[i]=arr[i+1];
                 arr[i+1]=temp;
@@ -39,7 +39,7 @@ public class BubbleSort
         }
       System.out.println();
 
-      System.out.println("count is "+c);
+
     }
   }
 
