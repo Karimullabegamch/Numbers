@@ -13,7 +13,7 @@ public class LineaSeach
     
     public static void main(String[] args)
     {
-      int arr[]={3,4,5,6,7,8};
+      int arr[]={3,1,5,6,7,8};
       int target=77;
 
       int res=linearSearch(arr,target);
